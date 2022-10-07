@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist",
+    "public": "dist/curriculum-vitae",
     "ignore": [
       "firebase.json",
       "**/.*",
